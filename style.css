@@ -116,6 +116,12 @@ h1{
 .title>h2{
   font-size:4rem;
 }
+
+@media(max-width: 420px){
+  #projects{
+  height:1000px;
+  }
+}
 .profile-links{
   display:flex;
   justify-content:center;
